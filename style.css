@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+
+#header{
+font-size: 30px;
+}
+#detections{
+    font-size: 20px;
+}
+#status{
+    font-size: 20px;
+}
+#foot{
+    font-size: 30px;
+    background-color: aliceblue;
+    width: 100%;
+    bottom: 0%;
+    position: fixed;
+}
+canvas{
+    border-radius: 40px;
+    border-color: aqua;
+    border-width: 6px;
+    border-style:solid;
+    
+}
